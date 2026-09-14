@@ -8,7 +8,7 @@
 
 ### Infraestrutura • Redes • Segurança • Automação • Eletrônica
 
-**Diretor @ Mega Not Tecnologia**
+**Diretor @meganot_**
 
 ⚡ Eletrotécnica &nbsp;•&nbsp; 🖥️ TI & Infraestrutura &nbsp;•&nbsp; 📡 Redes &nbsp;•&nbsp; 🔧 Eletrônica &nbsp;•&nbsp; 🤖 Automação
 
