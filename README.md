@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner-meganot.png" width="100%" alt="Mega Not Tecnologia">
+</p>
+
 <div align="center">
 
 # 👨‍💻 Daniel Elias | Mega Not
