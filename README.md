@@ -8,7 +8,7 @@
 
 ### Infraestrutura • Redes • Segurança • Automação • Eletrônica
 
-<strong>Diretor</strong> <a href="https://www.instagram.com/meganot_/"><img src="https://skillicons.dev/icons?i=instagram" width="20" height="20" alt="Instagram" /> <strong>@meganot_</strong></a>
+<strong>Diretor</strong> <a href="https://www.instagram.com/meganot_/"><img src="https://skillicons.dev/icons?i=instagram" width="20" height="20" alt="Instagram" /> <strong>@meganot_</strong></a> &nbsp;•&nbsp; <strong>Pessoal</strong> <a href="https://www.instagram.com/daniel_meganot/"><img src="https://skillicons.dev/icons?i=instagram" width="20" height="20" alt="Instagram pessoal" /> <strong>@daniel_meganot</strong></a>
 
 ⚡ Eletrotécnica &nbsp;•&nbsp; 🖥️ TI & Infraestrutura &nbsp;•&nbsp; 📡 Redes &nbsp;•&nbsp; 🔧 Eletrônica &nbsp;•&nbsp; 🤖 Automação
 
