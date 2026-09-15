@@ -8,7 +8,7 @@
 
 ### Infraestrutura • Redes • Segurança • Automação • Eletrônica
 
-**Diretor @meganot_**
+<strong>Diretor</strong> <a href="https://www.instagram.com/meganot_/"><img src="https://skillicons.dev/icons?i=instagram" width="20" height="20" alt="Instagram" /> <strong>@meganot_</strong></a>
 
 ⚡ Eletrotécnica &nbsp;•&nbsp; 🖥️ TI & Infraestrutura &nbsp;•&nbsp; 📡 Redes &nbsp;•&nbsp; 🔧 Eletrônica &nbsp;•&nbsp; 🤖 Automação
 
